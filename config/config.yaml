@@ -1,0 +1,3 @@
+rabbitmq_entrypoint: "host.docker.internal"
+rabbitmq_portno: "5672"
+
